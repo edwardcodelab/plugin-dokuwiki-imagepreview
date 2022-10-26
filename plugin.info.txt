@@ -1,0 +1,7 @@
+base   imagepreview
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-10-27
+name   ImagePreview plugin
+desc   Preview Image in editor
+url    https://github.com/edwardcodelab/plugin-dokuwiki-imagepreview
